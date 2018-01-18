@@ -1,0 +1,38 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeonyAyyad/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeonyAyyad/bamazon/issues"
+  },
+  "homepage": "https://github.com/GeonyAyyad/bamazon#readme",
+  "dependencies": {
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.1"
+  }
+}
+
+{
+  "name": "inquirerintro",
+  "version": "1.0.0",
+  "description": "Basic example of using inquirer",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^1.0.2"
+  }
+}
